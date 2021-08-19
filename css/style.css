@@ -1771,15 +1771,11 @@ body.ie ._ibg img {
 
 @media (max-width: 1170px) {
   .title {
-    font-size: calc(42px + 5 * ((100vw - 320px) / 850));
+    font-size: calc(34px + 5 * ((100vw - 320px) / 850));
   }
 
   .subtitle {
     font-size: calc(26px + 1 * ((100vw - 320px) / 850));
-  }
-
-  .title {
-    font-size: calc(42px + 5 * ((100vw - 320px) / 850));
   }
 }
 
@@ -1997,12 +1993,16 @@ body.ie ._ibg img {
   }
 
   .slider {
-    height: 715px;
+    height: 75vh;
   }
 
   .slider__title {
     max-width: 95%;
+    padding: 0px 0px 30px 0px;
   }
+  .slider__title::before {
+    top: -35px;
+}
 
   .slider__author {
     max-width: 90%;
