@@ -1793,7 +1793,7 @@ body.ie ._ibg img {
   }
 
   .hero {
-    padding: 100px 0px 300px;
+    padding: 200px 0 240px;
   }
 
   .what__h3 {
@@ -1815,7 +1815,7 @@ body.ie ._ibg img {
   }
 
   .hero__title {
-    max-width: 55vw;
+    max-width: 35vw;
   }
 
   .hero__btn:last-child {
@@ -1828,7 +1828,7 @@ body.ie ._ibg img {
   }
 
   ._scroll + .hero {
-    padding-top: 210px;
+    padding-top: 270px;
   }
 
   ._no-webp .header__wrapper{
@@ -1966,7 +1966,7 @@ body.ie ._ibg img {
   }
 
   .hero__title {
-    max-width: 350px;
+    max-width: 100%;
   }
 
   .footer__container {
