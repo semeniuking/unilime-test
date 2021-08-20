@@ -1828,7 +1828,7 @@ body.ie ._ibg img {
   }
 
   ._scroll + .hero {
-    padding-top: 110px;
+    padding-top: 210px;
   }
 
   ._no-webp .header__wrapper{
@@ -1962,7 +1962,7 @@ body.ie ._ibg img {
 
 @media (max-width: 479.98px) {
   .hero {
-    padding: 40px 0px 210px;
+    padding: 140px 0 210px;
   }
 
   .hero__title {
